@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "818026409395",
+    "project_id": "pc-api-6572974982634679293-690",
+    "storage_bucket": "pc-api-6572974982634679293-690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818026409395:android:0c0cd7fc6c006efe36afc6",
+        "android_client_info": {
+          "package_name": "com.lootboxrpg.lootboxheroes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818026409395-pigi9bi91ir2rla6q82obk7jd741s7mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ_4EojgyZ5yd6y521_9u8YyWGjwFUy8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818026409395-pigi9bi91ir2rla6q82obk7jd741s7mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818026409395-did53q3ckntv35h3m9l46sp2lc8f9597.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lootboxrpg.lootboxheroes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
